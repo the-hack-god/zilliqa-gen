@@ -20,3 +20,7 @@ Shoes - 7 traits
 Belt - 7 traits
 
 Skin - 3 traits
+
+Background - 7 traits
+
+* Each background actually represents one among the 7 continents, describing that Zilliqa is spread worldwide.
