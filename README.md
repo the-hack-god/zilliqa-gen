@@ -29,12 +29,12 @@ Background - 7 traits
 
 [ node.js ]
 
-'''shell
+```shell
 $ git clone https://github.com/the-hack-god/zilliqa-gen
 $ cd zilliqa-gen
 $ npm install
 $ npm install truffle -p
 $ npm install canvas
 $ node index.js
-'''
+```
 
