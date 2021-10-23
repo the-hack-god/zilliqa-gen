@@ -6,7 +6,7 @@ This is a generative art project which is capable of producing more than 350,000
 
 ## Idea behind this project
 
-* I have followed the rainbow pride color scheme to promote the equality among all the genders (I added black because to looked good!!).
+* I have followed the rainbow pride color scheme to promote the equality among all the genders (I added black because it looked good!!).
 * There exists different distinct characteristics, they are as numbered:
 
 Hairs - 7 traits
@@ -24,3 +24,17 @@ Skin - 3 traits
 Background - 7 traits
 
 * Each background actually represents one among the 7 continents, describing that Zilliqa is spread worldwide.
+
+## Getting Started
+
+[ node.js ]
+
+'''shell
+$ git clone https://github.com/the-hack-god/zilliqa-gen
+$ cd zilliqa-gen
+$ npm install
+$ npm install truffle -p
+$ npm install canvas
+$ node index.js
+'''
+
