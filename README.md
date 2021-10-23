@@ -38,3 +38,5 @@ $ npm install canvas
 $ node index.js
 ```
 
+You can view the generative zilliqa avatars in [the gallery](./gallery/).
+As an example there are 500 avatars.
